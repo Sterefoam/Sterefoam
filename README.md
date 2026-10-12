@@ -2,10 +2,17 @@
   <img src="https://raw.githubusercontent.com/medhatolwan/medhatolwan/master/images/hi.gif" width="40">
   <h1 align="center">Hi there, I'm <a href="https://github.com/Sterefoam" target="_blank">Ryan Alvino</a></h1>
   
+  <!-- Foto Profil GitHub dengan Efek Glowing / Border Menarik -->
+  <p align="center">
+    <img src="https://avatars.githubusercontent.com/u/144937859?v=4" width="180" height="180" style="border-radius: 50%; box-shadow: 0px 0px 20px rgba(56, 189, 248, 0.6); border: 3px solid #38bdf8;" alt="Ryan Alvino Avatar"/>
+  </p>
+
+  <!-- Animasi Mengetik Teks -->
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Information+Systems+Student;UI%2FUX+Design+Enthusiast;Data+Architecture+Specialist" alt="Typing SVG">
   </p>
 
+  <!-- Tombol Sosial Media dengan Animasi & Badge -->
   <p>
     <a href="https://github.com/Sterefoam"><img src="https://img.shields.io/badge/GitHub-Sterefoam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="mailto:ryanalvino1234@gmail.com"><img src="https://img.shields.io/badge/Email-ryanalvino1234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -16,7 +23,7 @@
 ---
 
 ### 🚀 About Me
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding Animation">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" alt="Coding Animation">
 
 - 💻 Fifth-semester **Information Systems** student at **Tarumanagara University**.
 - 🔭 Passionate about **Full-Stack Web Development**, **Data Architecture** (Star & Snowflake Schema), and modern **UI/UX Design** (Glassmorphism & Dark Mode).
@@ -87,6 +94,11 @@
 </div>
 
 ---
+
+<!-- Banner GIF Animasi Tambahan di Bagian Bawah -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-profile.svg" width="100%" alt="Footer Animation">
+</p>
 
 <div align="center">
   <p>⚡ <i>"Building digital solutions with structural integrity and clean architecture."</i></p>
