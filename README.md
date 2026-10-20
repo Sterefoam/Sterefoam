@@ -25,9 +25,9 @@
 ### 🚀 About Me
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" alt="Coding Animation">
 
-- 💻 Fifth-semester **Information Systems** student at **Tarumanagara University**[cite: 1].
-- 🔭 Passionate about **Full-Stack Web Development**, **Data Architecture** (Star & Snowflake Schema), and modern **UI/UX Design** (Glassmorphism & Dark Mode)[cite: 1].
-- 💼 Experienced as **Co-Lead Developer & Finance** for the **GEMTOPIA** web-based gaming top-up platform, and building core functionalities for the **FitFinder** gym marketplace[cite: 1].
+- 💻 Fifth-semester **Information Systems** student at **Tarumanagara University**.
+- 🔭 Passionate about **Full-Stack Web Development**, **Data Architecture** (Star & Snowflake Schema), and modern **UI/UX Design** (Glassmorphism & Dark Mode).
+- 💼 Experienced as **Co-Lead Developer & Finance** for the **GEMTOPIA** web-based gaming top-up platform, and building core functionalities for the **FitFinder** gym marketplace.
 - 🎯 Focused on building robust, scalable applications and maintaining strong project leadership.
 
 <br clear="right"/>
@@ -40,10 +40,10 @@
 
 | Category | Technologies & Tools |
 | :---: | :--- |
-| **Languages & Frameworks** | `PHP`, `Java (Spring Boot)`, `Python`, `Node.js`, `HTML5`, `CSS3`, `C`[cite: 1] |
-| **Databases & Architecture** | `SQL`, `Data Warehouse (Star & Snowflake Schema)`[cite: 1] |
-| **UI/UX & Design** | `UI/UX Design`, `Glassmorphism`, `Dark Mode Interfaces`[cite: 1] |
-| **Tools & Environments** | `Google Colab`, `Git`, `VS Code`, `Microsoft Office (Advanced)`[cite: 1] |
+| **Languages & Frameworks** | `PHP`, `Java (Spring Boot)`, `Python`, `Node.js`, `HTML5`, `CSS3`, `C` |
+| **Databases & Architecture** | `SQL`, `Data Warehouse (Star & Snowflake Schema)` |
+| **UI/UX & Design** | `UI/UX Design`, `Glassmorphism`, `Dark Mode Interfaces` |
+| **Tools & Environments** | `Google Colab`, `Git`, `VS Code`, `Microsoft Office (Advanced)` |
 
 </div>
 
